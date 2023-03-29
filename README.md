@@ -1,2 +1,7 @@
-# Azure Static Website Template
-This repository can be used to create a simple Azure hosted static website.
+# Landon Munro
+# Introduction to Computer Science
+# MatchMaker for the Web
+
+
+# Credit: Eric Pogue's MatchmakerLite
+
