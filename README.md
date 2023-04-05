@@ -3,5 +3,5 @@
 # MatchMaker for the Web
 
 
-# Credit: Eric Pogue's MatchmakerLite
+# Credit: Eric Pogue's MatchmakerLite for the Web
 
